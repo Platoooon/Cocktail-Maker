@@ -1,0 +1,18 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [],
+	"Net" : [],
+	"Connection" : [
+		{
+			"Name" : "ARDUINO_MEGA2560.53",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins31160@a000067.\\a000067.normal\\(chips):\\53\\",
+			"Logical" : "53",
+			"Physical" : "NC"
+		}
+	]
+}

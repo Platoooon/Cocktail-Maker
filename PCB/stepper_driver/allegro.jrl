@@ -1,0 +1,24 @@
+\t (00:00:01) allegro 17.4 S017 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Wed May 25 18:25:34 2022
+\t (00:00:01)         Host=CAO1-10 User=meissa.seck Pid=10160 CPUs=8
+\t (00:00:01) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:09) Starting new design...
+\i (00:00:10) trapsize 116667
+\i (00:00:10) generaledit 
+\i (00:00:29) enved 
+\i (00:00:30) setwindow form.prfedit
+\i (00:00:30) FORM prfedit treelist  My_favorites 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) generaledit 
+\i (00:00:39) setwindow form.prfedit
+\i (00:00:39) FORM prfedit treelist  Paths 
+\i (00:00:40) FORM prfedit treelist  Library Paths 
+\i (00:01:09) FORM prfedit padpath  
+\i (00:01:15) fillin "menu_cancel"
+\i (00:01:18) FORM prfedit psmpath  
+\i (00:01:23) FORM prfedit done  
+\i (00:01:34) setwindow pcb
+\i (00:01:34) exit 
+\t (00:01:37)     Journal end - Wed May 25 18:27:10 2022

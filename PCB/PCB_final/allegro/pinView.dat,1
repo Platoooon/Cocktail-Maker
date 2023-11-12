@@ -1,0 +1,182 @@
+A!NET_NAME!REFDES!PIN_NUMBER!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!PIN_NET_SHORT!PIN_NO_SWAP_PIN!PIN_NO_PIN_ESCAPE!PIN_CDS_PINID!PIN_XNET_PINS!PIN_PIN_ESCAPE!PIN_PIN_SIGNAL_MODEL!PIN_NO_DRC!PIN_NO_SHAPE_CONNECT!
+J!P:/MEA3/PROJET/PROJET_S6/PCB/PCB_final/allegro/pcb_final_1.brd!Wed Jun  1 17:06:06 2022!-3100.00!-3400.00!17900.00!13600.00!0.01!mils!SCHEMA_ELEC!10.400000 mil!2!OUT OF DATE!
+S!3.3!ARDUINO_MEGA2560!3V3!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!5V_1!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!5V_2!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!VDD!ARDUINO_MEGA2560!5V_3!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!RX0!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!1!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!10!ARDUINO_MEGA2560!10!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!11!ARDUINO_MEGA2560!11!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!12!ARDUINO_MEGA2560!12!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!13!ARDUINO_MEGA2560!13!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!14!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!15!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!16!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!17!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!18!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!19!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!2!ARDUINO_MEGA2560!2!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!20!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!21!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!22!ARDUINO_MEGA2560!22!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!23!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!24!ARDUINO_MEGA2560!24!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!25!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!26!ARDUINO_MEGA2560!26!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!27!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!28!ARDUINO_MEGA2560!28!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!29!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!3!ARDUINO_MEGA2560!3!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!30!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!31!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!32!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!33!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!34!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!35!ARDUINO_MEGA2560!35!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!36!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!37!ARDUINO_MEGA2560!37!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!38!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!39!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!4!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!40!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!41!ARDUINO_MEGA2560!41!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!42!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!43!ARDUINO_MEGA2560!43!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!44!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!45!ARDUINO_MEGA2560!45!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!46!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!47!ARDUINO_MEGA2560!47!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!48!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!49!ARDUINO_MEGA2560!49!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!5!ARDUINO_MEGA2560!5!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!50!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!51!ARDUINO_MEGA2560!51!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!52!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!53!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!6!ARDUINO_MEGA2560!6!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!7!ARDUINO_MEGA2560!7!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!8!ARDUINO_MEGA2560!8!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!9!ARDUINO_MEGA2560!9!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!AD0!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!AD1!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!AD10!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!AD11!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!AD12!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!AD13!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!AD14!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!AD15!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!A2!ARDUINO_MEGA2560!AD2!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!A3!ARDUINO_MEGA2560!AD3!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!AD4!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!AD5!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!AD6!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!AD7!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!AD8!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!AD9!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!AREF!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!GND1!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!GND2!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!GND3!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!GND4!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!0!ARDUINO_MEGA2560!GND5!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!IOREF!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!NC!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!RESET!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!SCL!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!SDA!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!!ARDUINO_MEGA2560!VIN!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!!!F18!!!!!!!!!!
+S!GREEN!BALANCE!1!@schema_elec.schematic1(sch_1):ins32531@connector.\header 4.normal\(chips)!HEADER 4_CON_04_HEADER 4!!!F17!!!!!!!!!!
+S!WHITE!BALANCE!2!@schema_elec.schematic1(sch_1):ins32531@connector.\header 4.normal\(chips)!HEADER 4_CON_04_HEADER 4!!!F17!!!!!!!!!!
+S!BLACK!BALANCE!3!@schema_elec.schematic1(sch_1):ins32531@connector.\header 4.normal\(chips)!HEADER 4_CON_04_HEADER 4!!!F17!!!!!!!!!!
+S!RED!BALANCE!4!@schema_elec.schematic1(sch_1):ins32531@connector.\header 4.normal\(chips)!HEADER 4_CON_04_HEADER 4!!!F17!!!!!!!!!!
+S!1_1B!MOTEUR_PAP1!1!@schema_elec.schematic1(sch_1):ins32453@connector.\header 4.normal\(chips)!HEADER 4_CON_04_HEADER 4!!!F16!!!!!!!!!!
+S!1_1A!MOTEUR_PAP1!2!@schema_elec.schematic1(sch_1):ins32453@connector.\header 4.normal\(chips)!HEADER 4_CON_04_HEADER 4!!!F16!!!!!!!!!!
+S!1_2A!MOTEUR_PAP1!3!@schema_elec.schematic1(sch_1):ins32453@connector.\header 4.normal\(chips)!HEADER 4_CON_04_HEADER 4!!!F16!!!!!!!!!!
+S!1_2B!MOTEUR_PAP1!4!@schema_elec.schematic1(sch_1):ins32453@connector.\header 4.normal\(chips)!HEADER 4_CON_04_HEADER 4!!!F16!!!!!!!!!!
+S!2_1B!MOTEUR_PAP2!1!@schema_elec.schematic1(sch_1):ins32492@connector.\header 4.normal\(chips)!HEADER 4_CON_04_HEADER 4!!!F15!!!!!!!!!!
+S!2_1A!MOTEUR_PAP2!2!@schema_elec.schematic1(sch_1):ins32492@connector.\header 4.normal\(chips)!HEADER 4_CON_04_HEADER 4!!!F15!!!!!!!!!!
+S!2_2A!MOTEUR_PAP2!3!@schema_elec.schematic1(sch_1):ins32492@connector.\header 4.normal\(chips)!HEADER 4_CON_04_HEADER 4!!!F15!!!!!!!!!!
+S!2_2B!MOTEUR_PAP2!4!@schema_elec.schematic1(sch_1):ins32492@connector.\header 4.normal\(chips)!HEADER 4_CON_04_HEADER 4!!!F15!!!!!!!!!!
+S!VDD!BOUTON_BLEU!1!@schema_elec.schematic1(sch_1):ins32622@connector.\header 2.normal\(chips)!HEADER 2_CON_02_HEADER 2!!!F14!!!!!!!!!!
+S!37!BOUTON_BLEU!2!@schema_elec.schematic1(sch_1):ins32622@connector.\header 2.normal\(chips)!HEADER 2_CON_02_HEADER 2!!!F14!!!!!!!!!!
+S!VDD!BOUTON_ROUGE!1!@schema_elec.schematic1(sch_1):ins32587@connector.\header 2.normal\(chips)!HEADER 2_CON_02_HEADER 2!!!F13!!!!!!!!!!
+S!35!BOUTON_ROUGE!2!@schema_elec.schematic1(sch_1):ins32587@connector.\header 2.normal\(chips)!HEADER 2_CON_02_HEADER 2!!!F13!!!!!!!!!!
+S!VALIM!V_MOTEUR!1!@schema_elec.schematic1(sch_1):ins32657@connector.\header 2.normal\(chips)!HEADER 2_CON_02_HEADER 2!!!F12!!!!!!!!!!
+S!0!V_MOTEUR!2!@schema_elec.schematic1(sch_1):ins32657@connector.\header 2.normal\(chips)!HEADER 2_CON_02_HEADER 2!!!F12!!!!!!!!!!
+S!0!C1!1!@schema_elec.schematic1(sch_1):ins29458@analog.\c.normal\(chips)!C_CAP_03_100U!!!F11!!!!!!!!!!
+S!VALIM!C1!2!@schema_elec.schematic1(sch_1):ins29458@analog.\c.normal\(chips)!C_CAP_03_100U!!!F11!!!!!!!!!!
+S!!DRIVER_BALANCE!11!@schema_elec.schematic1(sch_1):ins31993@\sen-13879\.\sen-13879.normal\(chips)!SEN-13879_SPARKFUN_SEN-13879_SEN-13879!!!F10!!!!!!!!!!
+S!!DRIVER_BALANCE!12!@schema_elec.schematic1(sch_1):ins31993@\sen-13879\.\sen-13879.normal\(chips)!SEN-13879_SPARKFUN_SEN-13879_SEN-13879!!!F10!!!!!!!!!!
+S!BLACK!DRIVER_BALANCE!2!@schema_elec.schematic1(sch_1):ins31993@\sen-13879\.\sen-13879.normal\(chips)!SEN-13879_SPARKFUN_SEN-13879_SEN-13879!!!F10!!!!!!!!!!
+S!5!DRIVER_BALANCE!7!@schema_elec.schematic1(sch_1):ins31993@\sen-13879\.\sen-13879.normal\(chips)!SEN-13879_SPARKFUN_SEN-13879_SEN-13879!!!F10!!!!!!!!!!
+S!6!DRIVER_BALANCE!8!@schema_elec.schematic1(sch_1):ins31993@\sen-13879\.\sen-13879.normal\(chips)!SEN-13879_SPARKFUN_SEN-13879_SEN-13879!!!F10!!!!!!!!!!
+S!0!DRIVER_BALANCE!6!@schema_elec.schematic1(sch_1):ins31993@\sen-13879\.\sen-13879.normal\(chips)!SEN-13879_SPARKFUN_SEN-13879_SEN-13879!!!F10!!!!!!!!!!
+S!GREEN!DRIVER_BALANCE!4!@schema_elec.schematic1(sch_1):ins31993@\sen-13879\.\sen-13879.normal\(chips)!SEN-13879_SPARKFUN_SEN-13879_SEN-13879!!!F10!!!!!!!!!!
+S!RED!DRIVER_BALANCE!1!@schema_elec.schematic1(sch_1):ins31993@\sen-13879\.\sen-13879.normal\(chips)!SEN-13879_SPARKFUN_SEN-13879_SEN-13879!!!F10!!!!!!!!!!
+S!VDD!DRIVER_BALANCE!9!@schema_elec.schematic1(sch_1):ins31993@\sen-13879\.\sen-13879.normal\(chips)!SEN-13879_SPARKFUN_SEN-13879_SEN-13879!!!F10!!!!!!!!!!
+S!VDD!DRIVER_BALANCE!10!@schema_elec.schematic1(sch_1):ins31993@\sen-13879\.\sen-13879.normal\(chips)!SEN-13879_SPARKFUN_SEN-13879_SEN-13879!!!F10!!!!!!!!!!
+S!WHITE!DRIVER_BALANCE!3!@schema_elec.schematic1(sch_1):ins31993@\sen-13879\.\sen-13879.normal\(chips)!SEN-13879_SPARKFUN_SEN-13879_SEN-13879!!!F10!!!!!!!!!!
+S!!DRIVER_BALANCE!5!@schema_elec.schematic1(sch_1):ins31993@\sen-13879\.\sen-13879.normal\(chips)!SEN-13879_SPARKFUN_SEN-13879_SEN-13879!!!F10!!!!!!!!!!
+S!1_1A!DRIVER_MOTEUR1!12!@schema_elec.schematic1(sch_1):ins31488@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F9!!!!!!!!!!
+S!1_1B!DRIVER_MOTEUR1!11!@schema_elec.schematic1(sch_1):ins31488@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F9!!!!!!!!!!
+S!1_2A!DRIVER_MOTEUR1!13!@schema_elec.schematic1(sch_1):ins31488@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F9!!!!!!!!!!
+S!1_2B!DRIVER_MOTEUR1!14!@schema_elec.schematic1(sch_1):ins31488@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F9!!!!!!!!!!
+S!7!DRIVER_MOTEUR1!8!@schema_elec.schematic1(sch_1):ins31488@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F9!!!!!!!!!!
+S!!DRIVER_MOTEUR1!1!@schema_elec.schematic1(sch_1):ins31488@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F9!!!!!!!!!!
+S!0!DRIVER_MOTEUR1!9!@schema_elec.schematic1(sch_1):ins31488@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F9!!!!!!!!!!
+S!0!DRIVER_MOTEUR1!15!@schema_elec.schematic1(sch_1):ins31488@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F9!!!!!!!!!!
+S!!DRIVER_MOTEUR1!2!@schema_elec.schematic1(sch_1):ins31488@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F9!!!!!!!!!!
+S!!DRIVER_MOTEUR1!3!@schema_elec.schematic1(sch_1):ins31488@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F9!!!!!!!!!!
+S!!DRIVER_MOTEUR1!4!@schema_elec.schematic1(sch_1):ins31488@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F9!!!!!!!!!!
+S!N29102!DRIVER_MOTEUR1!5!@schema_elec.schematic1(sch_1):ins31488@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F9!!!!!!!!!!
+S!8!DRIVER_MOTEUR1!7!@schema_elec.schematic1(sch_1):ins31488@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F9!!!!!!!!!!
+S!N29102!DRIVER_MOTEUR1!6!@schema_elec.schematic1(sch_1):ins31488@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F9!!!!!!!!!!
+S!VDD!DRIVER_MOTEUR1!10!@schema_elec.schematic1(sch_1):ins31488@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F9!!!!!!!!!!
+S!VALIM!DRIVER_MOTEUR1!16!@schema_elec.schematic1(sch_1):ins31488@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F9!!!!!!!!!!
+S!2_1A!DRIVER_MOTEUR2!12!@schema_elec.schematic1(sch_1):ins31610@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F8!!!!!!!!!!
+S!2_1B!DRIVER_MOTEUR2!11!@schema_elec.schematic1(sch_1):ins31610@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F8!!!!!!!!!!
+S!2_2A!DRIVER_MOTEUR2!13!@schema_elec.schematic1(sch_1):ins31610@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F8!!!!!!!!!!
+S!2_2B!DRIVER_MOTEUR2!14!@schema_elec.schematic1(sch_1):ins31610@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F8!!!!!!!!!!
+S!2!DRIVER_MOTEUR2!8!@schema_elec.schematic1(sch_1):ins31610@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F8!!!!!!!!!!
+S!!DRIVER_MOTEUR2!1!@schema_elec.schematic1(sch_1):ins31610@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F8!!!!!!!!!!
+S!0!DRIVER_MOTEUR2!9!@schema_elec.schematic1(sch_1):ins31610@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F8!!!!!!!!!!
+S!0!DRIVER_MOTEUR2!15!@schema_elec.schematic1(sch_1):ins31610@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F8!!!!!!!!!!
+S!!DRIVER_MOTEUR2!2!@schema_elec.schematic1(sch_1):ins31610@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F8!!!!!!!!!!
+S!!DRIVER_MOTEUR2!3!@schema_elec.schematic1(sch_1):ins31610@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F8!!!!!!!!!!
+S!!DRIVER_MOTEUR2!4!@schema_elec.schematic1(sch_1):ins31610@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F8!!!!!!!!!!
+S!N29116!DRIVER_MOTEUR2!5!@schema_elec.schematic1(sch_1):ins31610@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F8!!!!!!!!!!
+S!3!DRIVER_MOTEUR2!7!@schema_elec.schematic1(sch_1):ins31610@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F8!!!!!!!!!!
+S!N29116!DRIVER_MOTEUR2!6!@schema_elec.schematic1(sch_1):ins31610@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F8!!!!!!!!!!
+S!VDD!DRIVER_MOTEUR2!10!@schema_elec.schematic1(sch_1):ins31610@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F8!!!!!!!!!!
+S!VALIM!DRIVER_MOTEUR2!16!@schema_elec.schematic1(sch_1):ins31610@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!!!F8!!!!!!!!!!
+S!A2!ECRAN!11!@schema_elec.schematic1(sch_1):ins30625@\66201111122\.\1-11.normal\(chips)!1-11_66201111122_1-11!!!F7!!!!!!!!!!
+S!3.3!ECRAN!2!@schema_elec.schematic1(sch_1):ins30625@\66201111122\.\1-11.normal\(chips)!1-11_66201111122_1-11!!!F7!!!!!!!!!!
+S!0!ECRAN!1!@schema_elec.schematic1(sch_1):ins30625@\66201111122\.\1-11.normal\(chips)!1-11_66201111122_1-11!!!F7!!!!!!!!!!
+S!53!ECRAN!10!@schema_elec.schematic1(sch_1):ins30625@\66201111122\.\1-11.normal\(chips)!1-11_66201111122_1-11!!!F7!!!!!!!!!!
+S!51!ECRAN!9!@schema_elec.schematic1(sch_1):ins30625@\66201111122\.\1-11.normal\(chips)!1-11_66201111122_1-11!!!F7!!!!!!!!!!
+S!A3!ECRAN!8!@schema_elec.schematic1(sch_1):ins30625@\66201111122\.\1-11.normal\(chips)!1-11_66201111122_1-11!!!F7!!!!!!!!!!
+S!49!ECRAN!7!@schema_elec.schematic1(sch_1):ins30625@\66201111122\.\1-11.normal\(chips)!1-11_66201111122_1-11!!!F7!!!!!!!!!!
+S!47!ECRAN!6!@schema_elec.schematic1(sch_1):ins30625@\66201111122\.\1-11.normal\(chips)!1-11_66201111122_1-11!!!F7!!!!!!!!!!
+S!45!ECRAN!5!@schema_elec.schematic1(sch_1):ins30625@\66201111122\.\1-11.normal\(chips)!1-11_66201111122_1-11!!!F7!!!!!!!!!!
+S!43!ECRAN!4!@schema_elec.schematic1(sch_1):ins30625@\66201111122\.\1-11.normal\(chips)!1-11_66201111122_1-11!!!F7!!!!!!!!!!
+S!41!ECRAN!3!@schema_elec.schematic1(sch_1):ins30625@\66201111122\.\1-11.normal\(chips)!1-11_66201111122_1-11!!!F7!!!!!!!!!!
+S!35!R1!1!@schema_elec.schematic1(sch_1):ins29636@analog.\r.normal\(chips)!R_RES_01_10K!!!F6!!!!!!!!!!
+S!0!R1!2!@schema_elec.schematic1(sch_1):ins29636@analog.\r.normal\(chips)!R_RES_01_10K!!!F6!!!!!!!!!!
+S!37!R2!1!@schema_elec.schematic1(sch_1):ins29850@analog.\r.normal\(chips)!R_RES_01_10K!!!F5!!!!!!!!!!
+S!0!R2!2!@schema_elec.schematic1(sch_1):ins29850@analog.\r.normal\(chips)!R_RES_01_10K!!!F5!!!!!!!!!!
+S!9!SERVO1!1!@schema_elec.schematic1(sch_1):ins36497@connector.\header 3.normal\(chips)!HEADER 3_CON_03_HEADER 3!!!F4!!!!!!!!!!
+S!VDD!SERVO1!2!@schema_elec.schematic1(sch_1):ins36497@connector.\header 3.normal\(chips)!HEADER 3_CON_03_HEADER 3!!!F4!!!!!!!!!!
+S!0!SERVO1!3!@schema_elec.schematic1(sch_1):ins36497@connector.\header 3.normal\(chips)!HEADER 3_CON_03_HEADER 3!!!F4!!!!!!!!!!
+S!10!SERVO2!1!@schema_elec.schematic1(sch_1):ins36756@connector.\header 3.normal\(chips)!HEADER 3_CON_03_HEADER 3!!!F3!!!!!!!!!!
+S!VDD!SERVO2!2!@schema_elec.schematic1(sch_1):ins36756@connector.\header 3.normal\(chips)!HEADER 3_CON_03_HEADER 3!!!F3!!!!!!!!!!
+S!0!SERVO2!3!@schema_elec.schematic1(sch_1):ins36756@connector.\header 3.normal\(chips)!HEADER 3_CON_03_HEADER 3!!!F3!!!!!!!!!!
+S!11!SERVO3!1!@schema_elec.schematic1(sch_1):ins36822@connector.\header 3.normal\(chips)!HEADER 3_CON_03_HEADER 3!!!F2!!!!!!!!!!
+S!VDD!SERVO3!2!@schema_elec.schematic1(sch_1):ins36822@connector.\header 3.normal\(chips)!HEADER 3_CON_03_HEADER 3!!!F2!!!!!!!!!!
+S!0!SERVO3!3!@schema_elec.schematic1(sch_1):ins36822@connector.\header 3.normal\(chips)!HEADER 3_CON_03_HEADER 3!!!F2!!!!!!!!!!
+S!12!SERVO4!1!@schema_elec.schematic1(sch_1):ins36888@connector.\header 3.normal\(chips)!HEADER 3_CON_03_HEADER 3!!!F1!!!!!!!!!!
+S!VDD!SERVO4!2!@schema_elec.schematic1(sch_1):ins36888@connector.\header 3.normal\(chips)!HEADER 3_CON_03_HEADER 3!!!F1!!!!!!!!!!
+S!0!SERVO4!3!@schema_elec.schematic1(sch_1):ins36888@connector.\header 3.normal\(chips)!HEADER 3_CON_03_HEADER 3!!!F1!!!!!!!!!!
+S!13!SERVO5!1!@schema_elec.schematic1(sch_1):ins36954@connector.\header 3.normal\(chips)!HEADER 3_CON_03_HEADER 3!!!F0!!!!!!!!!!
+S!VDD!SERVO5!2!@schema_elec.schematic1(sch_1):ins36954@connector.\header 3.normal\(chips)!HEADER 3_CON_03_HEADER 3!!!F0!!!!!!!!!!
+S!0!SERVO5!3!@schema_elec.schematic1(sch_1):ins36954@connector.\header 3.normal\(chips)!HEADER 3_CON_03_HEADER 3!!!F0!!!!!!!!!!

@@ -1,0 +1,21 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_CDS_FSP_UID!FUNC_NO_SWAP_PIN!FUNC_HARD_LOCATION!FUNC_NO_SWAP_GATE_EXT!FUNC_CDS_FSP_MAPPED_CELL!FUNC_CDS_FSP_FPGA_SYMBOL!FUNC_CDS_FSP_TERM_TYPE!FUNC_CDS_FSP_TERM_NAME!FUNC_ROOM!FUNC_GROUP!FUNC_CDS_FSP_TERM_INDEX!FUNC_CDS_FSP_INSTANCE_ID!FUNC_NO_SWAP_GATE!FUNC_NO_XNET_CONNECTION!FUNC_CDS_FSP_IS_FPGA!
+J!P:/MEA3/PROJET/PROJET_S6/PCB/PCB_final/allegro/pcb_final_1.brd!Wed Jun  1 17:06:06 2022!-3100.00!-3400.00!17900.00!13600.00!0.01!mils!SCHEMA_ELEC!10.400000 mil!2!OUT OF DATE!
+S!@schema_elec.schematic1(sch_1):ins31160@a000067.\a000067.normal\(chips)!A000067_ARDUINO_A000067_A000067!ARDUINO_MEGA2560!.\chipsView.dat!!!!!!F18!!!!!!!!!!!!!!!!!!
+S!@schema_elec.schematic1(sch_1):ins32531@connector.\header 4.normal\(chips)!HEADER 4_CON_04_HEADER 4!BALANCE!.\chipsView.dat!!!!!!F17!!!!!!!!!!!!!!!!!!
+S!@schema_elec.schematic1(sch_1):ins32453@connector.\header 4.normal\(chips)!HEADER 4_CON_04_HEADER 4!MOTEUR_PAP1!.\chipsView.dat!!!!!!F16!!!!!!!!!!!!!!!!!!
+S!@schema_elec.schematic1(sch_1):ins32492@connector.\header 4.normal\(chips)!HEADER 4_CON_04_HEADER 4!MOTEUR_PAP2!.\chipsView.dat!!!!!!F15!!!!!!!!!!!!!!!!!!
+S!@schema_elec.schematic1(sch_1):ins32622@connector.\header 2.normal\(chips)!HEADER 2_CON_02_HEADER 2!BOUTON_BLEU!.\chipsView.dat!!!!!!F14!!!!!!!!!!!!!!!!!!
+S!@schema_elec.schematic1(sch_1):ins32587@connector.\header 2.normal\(chips)!HEADER 2_CON_02_HEADER 2!BOUTON_ROUGE!.\chipsView.dat!!!!!!F13!!!!!!!!!!!!!!!!!!
+S!@schema_elec.schematic1(sch_1):ins32657@connector.\header 2.normal\(chips)!HEADER 2_CON_02_HEADER 2!V_MOTEUR!.\chipsView.dat!!!!!!F12!!!!!!!!!!!!!!!!!!
+S!@schema_elec.schematic1(sch_1):ins29458@analog.\c.normal\(chips)!C_CAP_03_100U!C1!.\chipsView.dat!!!!!!F11!!!!!!!!!!!!!!!!!!
+S!@schema_elec.schematic1(sch_1):ins31993@\sen-13879\.\sen-13879.normal\(chips)!SEN-13879_SPARKFUN_SEN-13879_SEN-13879!DRIVER_BALANCE!.\chipsView.dat!!!!!!F10!!!!!!!!!!!!!!!!!!
+S!@schema_elec.schematic1(sch_1):ins31488@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!DRIVER_MOTEUR1!.\chipsView.dat!!!!!!F9!!!!!!!!!!!!!!!!!!
+S!@schema_elec.schematic1(sch_1):ins31610@a4988_stepper_motor_driver_carrier.\a4988_stepper_motor_driver_carrier.normal\(chips)!A4988_STEPPER_MOTOR_DRIVER_CA_MODULE_A4988_STEPPER_MOTOR__A4988_STEPPER_MOTOR_DRIVER_CARRIER!DRIVER_MOTEUR2!.\chipsView.dat!!!!!!F8!!!!!!!!!!!!!!!!!!
+S!@schema_elec.schematic1(sch_1):ins30625@\66201111122\.\1-11.normal\(chips)!1-11_66201111122_1-11!ECRAN!.\chipsView.dat!!!!!!F7!!!!!!!!!!!!!!!!!!
+S!@schema_elec.schematic1(sch_1):ins29636@analog.\r.normal\(chips)!R_RES_01_10K!R1!.\chipsView.dat!!!!!!F6!!!!!!!!!!!!!!!!!!
+S!@schema_elec.schematic1(sch_1):ins29850@analog.\r.normal\(chips)!R_RES_01_10K!R2!.\chipsView.dat!!!!!!F5!!!!!!!!!!!!!!!!!!
+S!@schema_elec.schematic1(sch_1):ins36497@connector.\header 3.normal\(chips)!HEADER 3_CON_03_HEADER 3!SERVO1!.\chipsView.dat!!!!!!F4!!!!!!!!!!!!!!!!!!
+S!@schema_elec.schematic1(sch_1):ins36756@connector.\header 3.normal\(chips)!HEADER 3_CON_03_HEADER 3!SERVO2!.\chipsView.dat!!!!!!F3!!!!!!!!!!!!!!!!!!
+S!@schema_elec.schematic1(sch_1):ins36822@connector.\header 3.normal\(chips)!HEADER 3_CON_03_HEADER 3!SERVO3!.\chipsView.dat!!!!!!F2!!!!!!!!!!!!!!!!!!
+S!@schema_elec.schematic1(sch_1):ins36888@connector.\header 3.normal\(chips)!HEADER 3_CON_03_HEADER 3!SERVO4!.\chipsView.dat!!!!!!F1!!!!!!!!!!!!!!!!!!
+S!@schema_elec.schematic1(sch_1):ins36954@connector.\header 3.normal\(chips)!HEADER 3_CON_03_HEADER 3!SERVO5!.\chipsView.dat!!!!!!F0!!!!!!!!!!!!!!!!!!

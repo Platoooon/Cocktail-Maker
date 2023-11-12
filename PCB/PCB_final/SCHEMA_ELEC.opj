@@ -1,0 +1,158 @@
+(ExpressProject "SCHEMA_ELEC"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S017 (3936576)  [4/19/2021]-[06/01/22]")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\schema_elec.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" ".\allegro\pcb_final_2.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    ("Allegro Setup Configuration File"
+       "C:\Cadence\SPB_17.4\tools\capture\allegro.cfg"))
+  (Folder "Layout"
+    (File ".\allegro\schema_elec.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\schema_elec.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\pcb_final.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\pcb_final.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\pcb_final_1.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\pcb_final_1.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\pcb_final_2.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\pcb_final_2.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile "P:\MEA3\PROJET\PROJET_S6\PCB\PCB_final\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile "P:\MEA3\PROJET\PROJET_S6\PCB\PCB_final\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile "P:\MEA3\PROJET\PROJET_S6\PCB\PCB_final\allegro\eco.txt"))
+    (File ".\allegro\genfeed.log"
+      (Type "Log File")
+      (LogFile "P:\MEA3\PROJET\PROJET_S6\PCB\PCB_final\allegro\genfeed.log")))
+  (PartMRUSelector
+    ("HEADER 3"
+      (FullPartName "HEADER 3.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 2"
+      (FullPartName "HEADER 2.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 4"
+      (FullPartName "HEADER 4.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (SEN-13879
+      (FullPartName "SEN-13879.Normal")
+      (LibraryName "P:\MEA3\PROJET\PROJET_S6\PCB\BALANCE_DRIVER\SEN-13879.OLB")
+      (DeviceIndex "0"))
+    (A4988_STEPPER_MOTOR_DRIVER_CA
+      (FullPartName "A4988_STEPPER_MOTOR_DRIVER_CARRIER.Normal")
+      (LibraryName
+         "P:\MEA3\PROJET\PROJET_S6\PCB\STEPPER_DRIVER\A4988_STEPPER_MOTOR_DRIVER_CARRIER.OLB")
+      (DeviceIndex "0"))
+    (A000067
+      (FullPartName "A000067.Normal")
+      (LibraryName "P:\MEA3\PROJET\PROJET_S6\PCB\ARDUINO_MEGA\A000067.OLB")
+      (DeviceIndex "0"))
+    (1-11
+      (FullPartName "1-11.Normal")
+      (LibraryName "P:\MEA3\PROJET\PROJET_S6\PCB\HEADER_11\66201111122.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "swan.nobili")
+  (LastUsedLibraryBrowseDirectory "P:\MEA3\PROJET\PROJET_S6\PCB\stepper_driver")
+  (ISPCBBASICLICENSE "false")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "P:\MEA3\PROJET\PROJET_S6\PCB\PCB_final\schema_elec.dsn")
+      (Path "Design Resources"
+         "P:\MEA3\PROJET\PROJET_S6\PCB\PCB_final\schema_elec.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "P:\MEA3\PROJET\PROJET_S6\PCB\PCB_final\schema_elec.dsn" "Design Cache")
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "Logs")
+      (Select "Design Resources"
+         "P:\MEA3\PROJET\PROJET_S6\PCB\PCB_final\schema_elec.dsn" "SCHEMATIC1"
+         "SERVO"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 700"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1674 24 718")
+        (Scroll "-362 0")
+        (Zoom "94")
+        (Occurrence "/"))
+      (Path "P:\MEA3\PROJET\PROJET_S6\PCB\PCB_FINAL\SCHEMA_ELEC.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "SCHEMA"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 718")
+        (Scroll "-333 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "P:\MEA3\PROJET\PROJET_S6\PCB\PCB_FINAL\SCHEMA_ELEC.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "SERVO"))))

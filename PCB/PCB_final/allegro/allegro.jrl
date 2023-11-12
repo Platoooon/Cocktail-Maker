@@ -1,0 +1,20 @@
+\t (00:00:02) allegro 17.4 S017 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Wed Jun  1 17:52:59 2022
+\t (00:00:02)         Host=PRJ13 User=swan.nobili Pid=2420 CPUs=8
+\t (00:00:02) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe P:\MEA3\PROJET\PROJET_S6\PCB\PCB_final\allegro\pcb_final_2.brd
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "pcb_final_2"
+\d (00:00:05) Design opened: P:/MEA3/PROJET/PROJET_S6/PCB/PCB_final/allegro/pcb_final_2.brd
+\i (00:00:05) trapsize 11708
+\i (00:00:05) trapsize 12058
+\t (00:00:05) Grids are drawn 200.00, 200.00 apart for enhanced viewing.
+\i (00:00:05) trapsize 13957
+\t (00:00:06) Grids are drawn 200.00, 200.00 apart for enhanced viewing.
+\i (00:00:06) trapsize 13957
+\t (00:00:06) > Sending response DoneOpenBoard
+\i (00:00:06) trapsize 13557
+\i (00:00:06) generaledit 
+\i (00:00:46) exit 
+\t (00:00:49)     Journal end - Wed Jun  1 17:53:46 2022

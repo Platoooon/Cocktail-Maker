@@ -1,0 +1,218 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [
+		{
+			"Name" : "ARDUINO_MEGA2560.40",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins31160@a000067.\\a000067.normal\\(chips):\\40\\",
+			"Logical" : "ARDUINO_MEGA2560.40",
+			"Physical" : "ARDUINO_MEGA2560.49"
+		},
+		{
+			"Name" : "ARDUINO_MEGA2560.50",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins31160@a000067.\\a000067.normal\\(chips):\\50\\",
+			"Logical" : "ARDUINO_MEGA2560.50",
+			"Physical" : "ARDUINO_MEGA2560.47"
+		},
+		{
+			"Name" : "ARDUINO_MEGA2560.52",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins31160@a000067.\\a000067.normal\\(chips):\\52\\",
+			"Logical" : "ARDUINO_MEGA2560.52",
+			"Physical" : "ARDUINO_MEGA2560.45"
+		},
+		{
+			"Name" : "ECRAN.9",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins30625@\\66201111122\\.\\1-11.normal\\(chips):\\3\\",
+			"Logical" : "ECRAN.9",
+			"Physical" : "ECRAN.5"
+		}
+	],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [],
+	"Net" : [
+		{
+			"Name" : "52",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):\\52\\",
+			"Logical" : null,
+			"Physical" : "52"
+		},
+		{
+			"Name" : "50",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):\\50\\",
+			"Logical" : null,
+			"Physical" : "50"
+		},
+		{
+			"Name" : "40",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):\\40\\",
+			"Logical" : null,
+			"Physical" : "40"
+		},
+		{
+			"Name" : "53",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):\\53\\",
+			"Logical" : "53",
+			"Physical" : null
+		},
+		{
+			"Name" : "49",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):\\49\\",
+			"Logical" : "49",
+			"Physical" : null
+		},
+		{
+			"Name" : "47",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):\\47\\",
+			"Logical" : "47",
+			"Physical" : null
+		},
+		{
+			"Name" : "45",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):\\45\\",
+			"Logical" : "45",
+			"Physical" : null
+		},
+		{
+			"Name" : "43",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):\\43\\",
+			"Logical" : "43",
+			"Physical" : null
+		},
+		{
+			"Name" : "37",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):\\37\\",
+			"Logical" : "37",
+			"Physical" : null
+		},
+		{
+			"Name" : "35",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):\\35\\",
+			"Logical" : "35",
+			"Physical" : null
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "ARDUINO_MEGA2560.49",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins31160@a000067.\\a000067.normal\\(chips):\\49\\",
+			"Logical" : "49",
+			"Physical" : "NC"
+		},
+		{
+			"Name" : "ARDUINO_MEGA2560.47",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins31160@a000067.\\a000067.normal\\(chips):\\47\\",
+			"Logical" : "47",
+			"Physical" : "NC"
+		},
+		{
+			"Name" : "ARDUINO_MEGA2560.45",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins31160@a000067.\\a000067.normal\\(chips):\\45\\",
+			"Logical" : "45",
+			"Physical" : "NC"
+		},
+		{
+			"Name" : "ARDUINO_MEGA2560.43",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins31160@a000067.\\a000067.normal\\(chips):\\43\\",
+			"Logical" : "43",
+			"Physical" : "NC"
+		},
+		{
+			"Name" : "ARDUINO_MEGA2560.37",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins31160@a000067.\\a000067.normal\\(chips):\\37\\",
+			"Logical" : "37",
+			"Physical" : "NC"
+		},
+		{
+			"Name" : "ARDUINO_MEGA2560.35",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins31160@a000067.\\a000067.normal\\(chips):\\35\\",
+			"Logical" : "35",
+			"Physical" : "NC"
+		},
+		{
+			"Name" : "ARDUINO_MEGA2560.40",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins31160@a000067.\\a000067.normal\\(chips):\\40\\",
+			"Logical" : "NC",
+			"Physical" : "40"
+		},
+		{
+			"Name" : "ARDUINO_MEGA2560.50",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins31160@a000067.\\a000067.normal\\(chips):\\50\\",
+			"Logical" : "NC",
+			"Physical" : "50"
+		},
+		{
+			"Name" : "ARDUINO_MEGA2560.52",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins31160@a000067.\\a000067.normal\\(chips):\\52\\",
+			"Logical" : "NC",
+			"Physical" : "52"
+		},
+		{
+			"Name" : "BOUTON_BLEU.2",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins32622@connector.\\header 2.normal\\(chips):\\2\\",
+			"Logical" : "37",
+			"Physical" : "41"
+		},
+		{
+			"Name" : "BOUTON_ROUGE.2",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins32587@connector.\\header 2.normal\\(chips):\\2\\",
+			"Logical" : "35",
+			"Physical" : "40"
+		},
+		{
+			"Name" : "ECRAN.9",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins30625@\\66201111122\\.\\1-11.normal\\(chips):\\3\\",
+			"Logical" : "51",
+			"Physical" : "24"
+		},
+		{
+			"Name" : "ECRAN.3",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins30625@\\66201111122\\.\\1-11.normal\\(chips):\\9\\",
+			"Logical" : "41",
+			"Physical" : "52"
+		},
+		{
+			"Name" : "ECRAN.10",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins30625@\\66201111122\\.\\1-11.normal\\(chips):\\2\\",
+			"Logical" : "53",
+			"Physical" : "22"
+		},
+		{
+			"Name" : "ECRAN.7",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins30625@\\66201111122\\.\\1-11.normal\\(chips):\\5\\",
+			"Logical" : "49",
+			"Physical" : "26"
+		},
+		{
+			"Name" : "ECRAN.6",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins30625@\\66201111122\\.\\1-11.normal\\(chips):\\6\\",
+			"Logical" : "47",
+			"Physical" : "28"
+		},
+		{
+			"Name" : "ECRAN.5",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins30625@\\66201111122\\.\\1-11.normal\\(chips):\\7\\",
+			"Logical" : "45",
+			"Physical" : "51"
+		},
+		{
+			"Name" : "ECRAN.4",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins30625@\\66201111122\\.\\1-11.normal\\(chips):\\8\\",
+			"Logical" : "43",
+			"Physical" : "50"
+		},
+		{
+			"Name" : "R1.1",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins29636@analog.\\r.normal\\(chips):\\1\\",
+			"Logical" : "35",
+			"Physical" : "40"
+		},
+		{
+			"Name" : "R2.1",
+			"C_PATH" : "@schema_elec.schematic1(sch_1):ins29850@analog.\\r.normal\\(chips):\\1\\",
+			"Logical" : "37",
+			"Physical" : "41"
+		}
+	]
+}

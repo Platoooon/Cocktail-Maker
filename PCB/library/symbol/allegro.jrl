@@ -1,0 +1,16 @@
+\t (00:00:04) allegro 17.4 S017 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Wed Jun  1 12:38:49 2022
+\t (00:00:04)         Host=PRJ13 User=swan.nobili Pid=7532 CPUs=8
+\t (00:00:04) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe P:\MEA3\PROJET\PROJET_S6\PCB\library\symbol\res_01.dra
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "res_01"
+\d (00:00:04) Design opened: P:/MEA3/PROJET/PROJET_S6/PCB/library/symbol/res_01.dra
+\i (00:00:04) trapsize 1208
+\i (00:00:04) trapsize 1244
+\i (00:00:04) trapsize 1208
+\i (00:00:04) trapsize 1326
+\i (00:00:05) generaledit 
+\i (00:00:30) exit 
+\t (00:00:34)     Journal end - Wed Jun  1 12:39:20 2022

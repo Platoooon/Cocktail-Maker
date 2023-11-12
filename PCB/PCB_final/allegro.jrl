@@ -1,0 +1,50 @@
+\t (00:00:52) allegro 17.4 S017 Windows SPB 64-bit Edition
+\t (00:00:52)     Journal start - Wed Jun  8 11:28:07 2022
+\t (00:00:52)         Host=PRJ13 User=swan.nobili Pid=7136 CPUs=8
+\t (00:00:52) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:52) 
+   (00:00:52) Loading axlcore.cxt 
+\t (00:00:53) Opening existing design...
+\i (00:00:53) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "PCB_PROJETB"
+\d (00:00:54) Design opened: P:/MEA3/PROJET/PROJET_S6/PCB/PCB_final/PCB_PROJETB.mdd
+\t (00:00:54) Grids are drawn 50.00, 50.00 apart for enhanced viewing.
+\i (00:00:54) trapsize 5854
+\i (00:00:54) trapsize 6029
+\i (00:00:54) trapsize 5854
+\t (00:00:54) Grids are drawn 100.00, 100.00 apart for enhanced viewing.
+\i (00:00:54) trapsize 6778
+\t (00:00:54) Grids are drawn 100.00, 100.00 apart for enhanced viewing.
+\i (00:00:54) trapsize 6979
+\i (00:00:55) generaledit 
+\i (00:11:16) exit 
+\t (00:11:19)     Journal end - Wed Jun  8 11:38:34 2022
+00:01:56) zoom in 638.16 1931.86
+\t (00:01:56) Grids are drawn 100.00, 100.00 apart for enhanced viewing.
+\i (00:01:56) trapsize 6778
+\i (00:01:56) zoom in 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom in 638.16 1931.86
+\t (00:01:56) Grids are drawn 50.00, 50.00 apart for enhanced viewing.
+\i (00:01:56) trapsize 3389
+\i (00:01:57) zoom out 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom out 848.29 1864.08
+\t (00:01:57) Grids are drawn 100.00, 100.00 apart for enhanced viewing.
+\i (00:01:57) trapsize 6778
+\i (00:01:57) roam start
+\i (00:01:58) roam end
+\i (00:01:59) zoom in 1 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom in 2271.73 1809.86
+\t (00:01:59) Grids are drawn 50.00, 50.00 apart for enhanced viewing.
+\i (00:01:59) trapsize 3389
+\i (00:02:01) zoom out 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom out 2508.97 2867.27
+\t (00:02:01) Grids are drawn 100.00, 100.00 apart for enhanced viewing.
+\i (00:02:01) trapsize 6778
+\i (00:02:02) prepopup 6304.82 1769.19
+\i (00:02:03) pick grid 6223.48 2596.15
+\t (00:02:03) last pick:  6225.00 2600.00
+\i (00:11:21) exit 
+\t (00:11:23)     Journal end - Wed Jun  8 11:38:30 2022

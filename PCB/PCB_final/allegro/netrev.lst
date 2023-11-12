@@ -1,0 +1,85 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : pcb_final_2.brd                               )
+(    Software Version : 17.4S017                                      )
+(    Date/Time        : Wed Jun  1 17:06:09 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'P:\MEA3\PROJET\PROJET_S6\PCB\PCB_final\allegro'
+Design Directory:            'P:/MEA3/PROJET/PROJET_S6/PCB/PCB_final/allegro'
+Old design name:             'P:/MEA3/PROJET/PROJET_S6/PCB/PCB_final/allegro/pcb_final_2.brd'
+New design name:             'P:/MEA3/PROJET/PROJET_S6/PCB/PCB_final/allegro/pcb_final_2.brd'
+
+CmdLine: netrev -y 1 -i P:\MEA3\PROJET\PROJET_S6\PCB\PCB_final\allegro -q netrev_constraint_report.xml P:/MEA3/PROJET/PROJET_S6/PCB/PCB_final/allegro/#Taaaaaq00288.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read P:/MEA3/PROJET/PROJET_S6/PCB/PCB_final/allegro/pstchip.dat 
+   Finished reading P:/MEA3/PROJET/PROJET_S6/PCB/PCB_final/allegro/pstchip.dat (00:00:00.04)
+Starting to read P:/MEA3/PROJET/PROJET_S6/PCB/PCB_final/allegro/pstxprt.dat 
+   Finished reading P:/MEA3/PROJET/PROJET_S6/PCB/PCB_final/allegro/pstxprt.dat (00:00:00.00)
+Starting to read P:/MEA3/PROJET/PROJET_S6/PCB/PCB_final/allegro/pstxnet.dat 
+   Finished reading P:/MEA3/PROJET/PROJET_S6/PCB/PCB_final/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_17.4/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.4/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.4/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.4/share/pcb/allegrolib/symbols 
+           P:/MEA3/PROJET/PROJET_S6/PCB/library/symbol 
+
+PADPATH =  P:/MEA3/PROJET/PROJET_S6/PCB/library/pads 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jun 1 17:06:09 2022
+   DESIGN NAME : 'SCHEMA_ELEC'
+   PACKAGING ON Apr 19 2021 16:22:31
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:58
+elapsed time  0:00:00
+

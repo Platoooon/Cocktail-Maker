@@ -1,0 +1,8 @@
+		INVENTAIRE DES COMPOSANTS:
+
+-6 barres (3 pour l'axe x , 3 pour l'axe y)
+-4 courroies (2 pour l'axe x , 2 pour l'axe y)
+-2 mini-courroies moteur (1 pour l'axe x , 1 pour l'axe y)
+-12 poulies/roues dentées
+-4 dispositifs qui permettent la fixation des barres
+-1 bloc central à travers lequel 2 barres passent (1 pour le mouvement selon l'axe x , 1 pour le mouvement selon l'axe y) et sur lequel on posera la balance et le gobelet
